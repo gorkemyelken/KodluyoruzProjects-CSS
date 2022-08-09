@@ -1,0 +1,54 @@
+img {
+    display:block;
+    margin:200px auto 0px auto;
+}
+
+.search {
+    text-align: center;
+}
+
+.search {
+    background-color: lightgray;
+}
+
+.specialsearches {
+    background-color: #62B3AA;
+    float: left;
+    width: 40%;
+    text-align: center;
+    height: 75px;
+}
+
+.specialsearches>p {
+    margin-bottom: 0;
+}
+
+.help {
+    background-color: #70ccc2;
+    float: left;
+    width: 15%;
+    text-align: center;
+    height: 65px;
+    font-size: small;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.getgoogle {
+    background-color: #62b3aa;
+    float: left;
+    width: 45%;
+    text-align: center;
+    height: 75px;
+    font-size: small;
+}
+
+.getgoogle>p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.footer {
+    padding-top: 70 px;
+    text-align: center;
+}
